@@ -15,7 +15,7 @@ import (
 const (
 	databaseUser = "postgres"
 	databaseHost = "localhost"
-	databaseName = "tdde06aa"
+	databaseName = "tdde06"
 )
 
 type Task struct {
